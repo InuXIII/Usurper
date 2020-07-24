@@ -1,0 +1,9 @@
+maxhp = 150;
+hp = maxhp;
+alarm[0] = 120;
+bulletcount = 128;
+iterate = 0;
+interval = 2;
+spiralspeed = 1.5;
+alarm[1] = 120;
+hitcheck = false;

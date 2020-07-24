@@ -1,0 +1,1 @@
+instance_create_layer(x,y+80,"inst_pc_control", obj_text_stuff11);

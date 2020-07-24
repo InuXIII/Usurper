@@ -1,0 +1,1 @@
+audio_play_sound(bgm_menu1,10,0);

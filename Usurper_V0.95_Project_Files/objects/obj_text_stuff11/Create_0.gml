@@ -1,0 +1,8 @@
+textbox = noone;
+instance_destroy(obj_oof);
+
+nophtext[0] = "WHAT?! WHAT ARE YOU OF ALL CREATURES DOING IN MY SOLAR SYSTEM?!";
+nophtext[1] = "IT WAS MADE VERY CLEAR, THAT NONE OF US SHOULD INTERFERE WITH ANOTHER ONES' DOMAIN!";
+nophtext[2] = "THERE BETTER BE A GOOD REASON TO WREAK SUCH HAVOC YOU PARASITE!";
+nophtext[3] = "COMMENCING TELEPORTATION..."
+nophtext[4] = " ";

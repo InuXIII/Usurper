@@ -1,0 +1,11 @@
+instance_create_layer(1888,1694,"inst_enemy",obj_cannon_bomber);
+instance_create_layer(1940,1700,"inst_enemy",obj_cannon_whirlwind);
+instance_create_layer(2124,1704,"inst_enemy",obj_cannon_aimed_laser);
+instance_create_layer(2178,1701,"inst_enemy",obj_cannon_scatter);
+instance_create_layer(2024,1708,"inst_pu",obj_cannon_l);
+instance_destroy(obj_cannon_bomber1);
+instance_destroy(obj_cannon_l1);
+instance_create_layer(x,y,"inst_bgm_co",obj_bgm_boss);
+instance_destroy(obj_e);
+instance_create_layer(2112,2016,"inst_pc_control", obj_endit);
+instance_destroy(obj_trigger);
